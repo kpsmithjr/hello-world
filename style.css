@@ -1,8 +1,9 @@
-body {
-  align-items: center;
+.container {
+  text-align: center;
 }
 
 h1 {
   font-family: "Creepster", cursive;
-  font-size: 8rem;
+  font-size: 25px;
+  color: red;
 }
